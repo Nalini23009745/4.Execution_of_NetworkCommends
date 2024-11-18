@@ -29,7 +29,7 @@ This commands includes
 ## PROGRAM
 ## PING COMMAND
 ## CLIENT
-``
+```
 import socket 
 from pythonping import ping 
 s=socket.socket() 
